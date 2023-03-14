@@ -42,7 +42,7 @@
   { "date": "11-Mar", "expected": 80.63, "actual": 81.15 },
   { "date": "12-Mar", "expected": 80.56, "actual": 80.95 },
   { "date": "13-Mar", "expected": 80.49, "actual": 81.0 },
-  { "date": "14-Mar", "expected": 80.42, "actual": 81.65 },
+  { "date": "14-Mar", "expected": 80.42, "actual": 81.25 },
   { "date": "15-Mar", "expected": 80.35, "actual": 0 },
   { "date": "16-Mar", "expected": 80.29, "actual": 0 },
   { "date": "17-Mar", "expected": 80.22, "actual": 0 },
