@@ -59,7 +59,7 @@
   { "date": "22-May", "expected": 82.06, "actual": 81.45 },
   { "date": "23-May", "expected": 81.99, "actual": 80.65 },
   { "date": "24-May", "expected": 81.92, "actual": 80.10 },
-  { "date": "25-May", "expected": 81.85, "actual": 0 },
+  { "date": "25-May", "expected": 81.85, "actual": 80.05 },
   { "date": "26-May", "expected": 81.78, "actual": 0 },
   { "date": "27-May", "expected": 81.72, "actual": 0 },
   { "date": "28-May", "expected": 81.65, "actual": 0 },
